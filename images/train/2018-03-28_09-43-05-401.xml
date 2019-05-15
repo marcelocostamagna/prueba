@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>2018-03-28_09-43-05-401.jpg</filename>
+	<path>C:\Users\Marceluss\Documents\screenshots_POC_2\custom_detection\data\train\2018-03-28_09-43-05-401.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>430</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>display</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>105</ymin>
+			<xmax>368</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+</annotation>

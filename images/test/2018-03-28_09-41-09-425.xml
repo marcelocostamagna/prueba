@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tmp</folder>
+	<filename>2018-03-28_09-41-09-425.jpeg</filename>
+	<path>C:\Users\Marceluss\Documents\screenshots_POC_2\custom_detection\data\tmp\2018-03-28_09-41-09-425.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1382</width>
+		<height>744</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>display</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>174</ymin>
+			<xmax>640</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>
